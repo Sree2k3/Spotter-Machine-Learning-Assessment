@@ -27,6 +27,10 @@ env/
 .ruff_cache/
 .cache/
 
+# uv/local Python metadata
+uv.lock
+.python-version
+
 # Generated model artifacts
 models/
 artifacts/
